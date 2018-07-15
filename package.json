@@ -1,0 +1,9 @@
+{
+  "name": "react-dotnet-core-template",
+  "version": "1.0.0",
+  "main": "\"\"",
+  "repository": "\"",
+  "author": "Lucian Sturião Rodrigues <luciansr@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
